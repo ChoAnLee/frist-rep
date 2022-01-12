@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>
+		form
+	</title>
+
+	</head>
+<body>
+	<form action="" method="get">
+		<fieldset>
+			<legend>登入資訊</legend><!--標題-->
+		<p>
+			<label for="usernamee">帳號:</label><input type="text" name="username" id="usernamee"></p>
+		<p>
+			<label for="passww">密碼:</label><input type="password" name="passwd" id="passww"></p>
+			<p><input type="submit" value="submit">
+				<input type="reset" value="reset">
+			</p>
+		<p>
+			性別:
+			男<input type="radio" name="gender">
+			女<input type="radio" name="gender">
+			<br>
+			興趣:
+			<input type="checkbox" name="interest">慢跑
+			<input type="checkbox" name="interest">溜冰
+			<input type="checkbox" name="interest">球類
+			其他<input type="text" name=" other interest">
+		</p>
+	</fieldset>
+	</form>
+	<!-- 下拉式選項-->
+	<p>please select your favorite season : <select name="season" size="2" multiple></p>
+		<option>spring</option>
+		<option selected>summer</option>
+		<option>fall</option>
+		<option>winter</option>
+	</select>
+	<!-- 文字區域-->
+	<br>
+	<br>
+	<textarea name="poem" rows="3" cols="20">
+		qwwqqqqqqqqqqqqqq
+		qwwwwwwwwwwwwww
+		qwwwwwwwwwwwwww
+		qwwwwwwwwwwwwww
+
+		qwwwwwwwwwwwwww
+
+
+		qwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+	</textarea>
+
+</body>
+
+</html>
