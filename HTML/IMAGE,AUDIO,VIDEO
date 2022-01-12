@@ -1,1 +1,35 @@
-11
+<! DOCTYPE html >
+<html lang="zh">
+<head>
+	</head>
+<body>
+<ol>
+	<li><a href="#ch01">ch01</a></li>
+	<li><a href="#ch02">ch02</a></li>
+	</ol>
+<hr>
+<pre>
+
+	</pre>
+<h2 id="ch01">ch01</h2>
+<p>rapirlgjagaugbpag</p>
+<p><a href="#top">top</a></p>
+<br>
+<h2 id="ch02">ch02</h2>
+<p>euwiofghapghpurggreg</p>
+<p><a href="#top">top</a></p>
+<figure>
+<img src="C:/Users/super/Pictures/1.png" width="1028" height="1028"alt="1.png">
+<figcaption> wowowowowowo</figcaption>
+</figure>
+<br>
+<audio controls>
+	<source src="C:\Users\super\Downloads\遭安李倬安.mp3" type="audio/mp3">
+</audio>
+<br>
+<video controls autoplay width="640" length="480">
+	<source src="C:\Users\super\Downloads\fddf.mp4" type="video/mp4">
+</video>
+
+</body>
+
