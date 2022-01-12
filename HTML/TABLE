@@ -9,6 +9,11 @@
 <body>
 	<table border="10" width="50%" cellspacing="50" cellpadding="50%">
 		<tr>
+		<th>
+		heading
+		</th>
+		</tr>
+		<tr>
 		<td colspan="3">qqqq</td>
 	</tr>
 	<tr>
