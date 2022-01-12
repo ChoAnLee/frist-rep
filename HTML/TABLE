@@ -1,1 +1,35 @@
-1
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>
+		20220112(html table)
+	</title>
+</head>
+<body>
+	<table border="10" width="50%" cellspacing="50" cellpadding="50%">
+		<tr>
+		<td colspan="3">qqqq</td>
+	</tr>
+	<tr>
+		<td>a1</td>
+		<td>a2</td>
+		<td>a3</td>
+	</tr>
+	</table>
+	<br><br><br>
+	<table border="10" width="50%" cellspacing="50" cellpadding="50%">
+		<tr>
+			<td rowspan="3">hahahah</td>
+			<td>fefefef</td>
+		</tr>
+		<tr>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+		</tr>
+	</table>
+
+</body>
+</html>
