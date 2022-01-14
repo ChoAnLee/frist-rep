@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style type="text/css">
+	#arial{
+		font-family: arial;
+	}
+	.blue{
+		color: blue;
+	}
+	h2[id="arial"]{
+		font-style: italic;
+	}
+	h2[class="blue"]{
+		font-style: italic;
+	}
+	img[alt~="logo"]{
+		width: 80px;height: 80px;
+	}
+	a[href^="http://"]{
+		color: ##ff0000;
+		text-decoration: none;
+	}
+	img[src$="png"]{
+		border: 1px solid #000;
+	}
+	a[href*="e-happy"]{
+		background-color: purple;
+	}
+
+	</style>
+	<title>cascading style sheets</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>
+				<h2 id="arial" class="blue">
+					epfojWEIOHAERGWEF
+				</h2>
+				<img src="wefweffef" alt="logo">
+				<p>
+					<a href="fbrthah">Rkejdg</a>
+				</p>
+			</td>
+			<td>
+				<h2 id="arial" class="blue">regporj'geh</h2>
+				<img src="gewG" alt="hsrtjsr">
+				<p>
+					<a href="egrthsrthrt">eragrg</a>
+				</p>
+			</td>
+			<td>
+				<h2 id="arial" class="blue">
+					regar'thrth
+				</h2>
+				<img src="rebarth" alt="eratrh">
+				<p>
+					<a href="gnsrtnrt">aergbb</a>
+				</p>
+				<a href="#abc">abc</a>
+			</td>
+		</tr>
+	</table>
+	<h2 id="abc">rgregaerg</h2>
+	<a href="#top">top</a>
+</body>
+</html>
