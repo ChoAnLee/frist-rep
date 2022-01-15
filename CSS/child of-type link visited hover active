@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		115
+	</title>
+	<style type="text/css">
+		a{
+			text-decoration: none;
+			font-size: 13pt;
+		}
+		a:link{
+			color: blue;
+		}
+		a:visited{
+			color: red;
+		}
+		a:hover{
+			border: 1px solid black;
+		}
+		a:active{
+			color: yellow;
+		}
+		a:not(.kk){
+			color: darkred;
+		}
+		tr:nth-child(odd){
+			background-color: #f1f1f1;
+		}
+		tr:first-child{
+			color: darkred;
+			background-color: #00ced1;
+		}
+		td:nth-child(1){
+			text-align: left;
+		}
+		td:nth-child(2){
+			text-align: right;
+		}
+		p:nth-of-type(3){
+			background-color: green;
+		}
+		p:nth-child(3){
+			background-color: blue;
+		}
+	</style>
+</head>
+<body>
+	<ol>
+		<li><a href="https://www.google.com.tw/" target="blank"><strong>google</strong>
+		</a></li>
+		<li><a href="https://mail.google.com/mail/u/0/#inbox" target="blank">mail</a></li>
+	</ol>
+	<h2>花生餅乾</h2>
+	<table width="50%">
+	<tr>
+		<th>food</th>
+		<th>quantity</th>
+	</tr>
+	<tr>
+		<td>a</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>b</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>c</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>d</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>e</td>
+		<td>5</td>
+	</tr>
+</table>
+<h2>jfjfjfjf</h2>
+<p>djdjs.werigh</p>
+<p>jga.erghsrtghth</p>
+<p>rgeagergreg</p>
+<p>rgaegregaeg</p>
+<p>eragergaeragergrega</p>
+</body>
+</html>
