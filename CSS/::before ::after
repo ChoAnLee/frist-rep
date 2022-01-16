@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+	sdsd		
+	</title>
+	<style type="text/css">
+		ul::before{
+			content: "apple";
+			color: white;
+			background-color: black;
+			margin-left: 10px;
+		}
+		ul::after{
+			content: "";
+			display:block;
+			border-bottom: 1px solid black;
+		}
+
+	</style>
+</head>
+<body>
+<ul>
+	<li>brbsrt</li>
+	<li>aergergerg</li>
+	<li>aergergare</li>
+</ul>
+</body>
+</html>
