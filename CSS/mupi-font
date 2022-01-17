@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		dcdcdc
+	</title>
+	<style type="text/css">
+	</style>
+	<link rel="stylesheet" type="text/css" href="1.css">
+	
+
+	<!--
+		@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Mochiy+Pop+P+One&display=swap');
+		@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+		.poem{
+			font-family: "標楷體","微軟正黑體";}
+		.a{
+			font-family: 'Ubuntu', sans-serif;
+		}
+		.b{
+			font-family: 'Mochiy Pop P One', sans-serif;
+		}
+		.c{
+			font-family: 'Ma Shan Zheng', cursive;
+		}
+		.d{
+			font-family: ‘cwTeXYen’, sans-serif;
+			font-weight: 800;
+		}
+		.text.effect01 p {
+  position:relative; 
+  color: #3793F2;  
+  font-size: 42px;  
+  letter-spacing:0;  
+  line-height: 1.1;  
+  padding: 3px 0;  
+  text-shadow: 2px 2px 0 #fff, 5px 5px 0 #dfe8f1;
+  text-align: center;
+}
+.text.effect01 p span {
+  display: inline-block;
+}
+.text.effect01 p span.textsmall {
+  font-size: 32px; 
+  color: #69B97A; 
+  text-shadow: 1px 1px 0 #fff, 3px 3px 0 #f1e3df;
+}
+
+	-->
+
+
+
+</head>
+<body style="font-size:20px;">
+<div style="font-size:16px;">
+	<div style="font-size:xx-large;">ggg		
+	</div>
+	<div style="font-size:medium;">ggg
+	</div>
+	<div style="font-size:1rem;">ggg</div>
+	<div style="font-size:1rem;">ggg</div>
+</div>
+<p style="font-weight:100;">fff</p>
+<p style="font-weight:200;">fff</p>
+<p style="font-weight:300;">fff</p>
+<p style="font-weight:400;">fff</p>
+<p style="font-weight:500;">fff</p>
+<p style="font-weight:600;">fff</p>
+<p style="font-style: oblique;">ddd</p>
+<p style="font-style: italic;">ddd</p>
+<p style="font-variant: small-caps;">ASdeFd</p>
+<p style="text-transform: uppercase;" class="c">台湾第一帅李倬安</p>
+<p class="poem">哈哈哈</p>
+<p class="a">btbh tstfdvbdfbrbtwtbdafbdbds</p>
+<p class="b">ffdfvbrnaentrneabafdbtbf</p>
+<p style="text-decoration: overline;">fff</p>
+<p style="text-decoration: line-through;">fff</p>
+<div class="text effect01">
+  <p>
+    <span class="font49">無限字在，馳騁雲端</span>                     
+  </p>
+</div>
+<p class="d">天下武功 為快不破</p>
+</body>
+</html>
